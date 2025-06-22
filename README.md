@@ -32,12 +32,6 @@ Explore my pinned repositories to see:
 
 ---
 
-## 🧰 Tools
-- VS Code, IntelliJ IDEA
-- GitHub, Postman
-
----
-
 ## 📫 Let's Connect
 
 Feel free to connect or collaborate!
