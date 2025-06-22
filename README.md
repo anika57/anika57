@@ -7,13 +7,14 @@ I craft intuitive user interfaces with a strong focus on responsive design, comp
 ---
 ## 🚀 Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind, Redux, TypeScript, Angular, Figma  
-**Backend:** Node.js, Express.js, MongoDB, MySQL
+### 🖥️ Frontend
+HTML, CSS, JavaScript, React, Next.js, Tailwind, Redux, TypeScript, Angular, Figma  
+### 🌐 Backend 
+Node.js, Express.js, MongoDB, MySQL
 ---
 
 ## 📁 Projects
-
-**Pinned:** Document Search Bot • Ecom Landing Page • Product Page • Random Quotes
+Document Search Bot • Ecom Landing Page • Product Page • Random Quotes
 ---
 
 ## 📫 Connect with Me
