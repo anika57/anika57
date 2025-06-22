@@ -43,7 +43,7 @@ Explore my pinned repositories to see:
 Feel free to connect or collaborate!
 
 - 🔗 [Portfolio](https://space-portfolio-anika.netlify.app/)
-- ✉️ [Reach me on LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/anika-2675111a4/)) 
+- ✉️ [Reach me on LinkedIn](https://www.linkedin.com/in/anika-2675111a4/) 
 
 ---
 
