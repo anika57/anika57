@@ -17,7 +17,7 @@ Node.js, Express.js, MongoDB, MySQL, Java
 ---
 
 ## 📁 Projects
-Document Search Bot, Ecomm Landing Page, Product Page, Random Quotes
+Document Search Bot, Ecomm Landing Page, Product Page, Random Quotes, AI Slides Generator
 
 ---
 
