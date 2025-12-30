@@ -1,3 +1,6 @@
+![Profile views](https://komarev.com/ghpvc/?username=anika57&label=Profile%20views&color=0e75b6&style=flat)
+
+
 # Hi, I'm Anika 👋
 
 🎨 UI Developer | 💻 Frontend-Focused Full Stack Enthusiast | 🌐 Currently at Sonata Software
